@@ -1,5 +1,5 @@
 # PartiallyConditionedGrangerCausality
-Code for partially conditioned Granger causality using the covariance matrix
+Code for partially conditioned Granger causality using the covariance matrix (see below for other estimators though).
 
 This function implements the method described in
 
@@ -8,6 +8,14 @@ Marinazzo et al, Causal information approach to partial conditioning in multivar
 https://www.hindawi.com/journals/cmmm/2012/303601/
 
 Instructions are in the pdf file.
+
+# You can also use another nongaussian estimator
+
+For example the classical Mutual Information, or the Kernel Granger Causality (ht, tps://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.056215, ht)tps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.144103).
+
+These files (still in beta version, are those containing MIexact or kernel in their names.
+
+# if your data is in 3D, separated in trials, use the functions containing the word trial
 
 Please do not hesitate to contact us for suggestions and remarks http://ost.io/@danielemarinazzo
 
