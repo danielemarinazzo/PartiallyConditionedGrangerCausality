@@ -11,7 +11,7 @@ Instructions are in the pdf file.
 
 # You can also use another nongaussian estimator
 
-For example the classical Mutual Information, or the Kernel Granger Causality (ht, tps://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.056215, ht)tps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.144103).
+For example the classical Mutual Information, or the Kernel Granger Causality (ht, tps://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.056215, ht)tps://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.144103, https://github.com/danielemarinazzo/KernelGrangerCausality).
 
 These files (still in beta version, are those containing MIexact or kernel in their names.
 
